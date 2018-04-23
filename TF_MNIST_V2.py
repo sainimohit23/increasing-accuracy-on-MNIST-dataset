@@ -1,5 +1,5 @@
-#MNIST v1
-#First Model
+#MNIST v2
+#Second Model
 """"This Model got 94.9% training set accuracy"""
 """Changes :
     
